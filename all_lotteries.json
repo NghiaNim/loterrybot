@@ -1,0 +1,375 @@
+{
+  "rentals": [
+    {
+      "id": "34926806",
+      "title": "House 55",
+      "location": "Northwest Brooklyn | Brooklyn",
+      "units_available": 89,
+      "days_until_closing": 56,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34926806"
+    },
+    {
+      "id": "34110907",
+      "title": "11 Gerry Street Apartments",
+      "location": "Bushwick and Williamsburg | Brooklyn",
+      "units_available": 120,
+      "days_until_closing": 51,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34110907"
+    },
+    {
+      "id": "34686533",
+      "title": "Belle Eden Apartments - Waiting List",
+      "location": "Multiple Neighborhood | Multiple Borough",
+      "units_available": 117,
+      "days_until_closing": 46,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34686533"
+    },
+    {
+      "id": "34642432",
+      "title": "WILLETS POINT COMMONS",
+      "location": "West Queens | Queens",
+      "units_available": 747,
+      "days_until_closing": 44,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34642432"
+    },
+    {
+      "id": "34153595",
+      "title": "37th and 1st Apartments",
+      "location": "Gramercy Park and Murray Hill | Manhattan",
+      "units_available": 28,
+      "days_until_closing": 37,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34153595"
+    },
+    {
+      "id": "34016259",
+      "title": "406 Remsen Avenue Apartments",
+      "location": "Central Brooklyn | Brooklyn",
+      "units_available": 31,
+      "days_until_closing": 35,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34016259"
+    },
+    {
+      "id": "34057878",
+      "title": "Bedford Beverly Phase 1",
+      "location": "Multiple Neighborhood | Multiple Borough",
+      "units_available": 69,
+      "days_until_closing": 31,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34057878"
+    },
+    {
+      "id": "34978850",
+      "title": "AURA - Units Still Available",
+      "location": "Northwest Queens | Queens",
+      "units_available": 27,
+      "days_until_closing": 30,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34978850"
+    },
+    {
+      "id": "33556775",
+      "title": "556 Baltic Street Apartments",
+      "location": "Northwest Brooklyn | Brooklyn",
+      "units_available": 23,
+      "days_until_closing": 28,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/33556775"
+    },
+    {
+      "id": "33435608",
+      "title": "Nova Astoria",
+      "location": "Northwest Queens | Queens",
+      "units_available": 50,
+      "days_until_closing": 28,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/33435608"
+    },
+    {
+      "id": "34333720",
+      "title": "2339 Nostrand Avenue Units Still Available",
+      "location": "Flatbush | Brooklyn",
+      "units_available": 1,
+      "days_until_closing": 28,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34333720"
+    },
+    {
+      "id": "34460651",
+      "title": "ROCKAWAY VILLAGE APARTMENTS PHASE 5",
+      "location": "Rockaways | Queens",
+      "units_available": 325,
+      "days_until_closing": 28,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34460651"
+    },
+    {
+      "id": "34097032",
+      "title": "196 South 3rd Street Apartments",
+      "location": "Greenpoint | Brooklyn",
+      "units_available": 9,
+      "days_until_closing": 28,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34097032"
+    },
+    {
+      "id": "34639199",
+      "title": "727 East 215th Street Apartments",
+      "location": "Bronx Park and Fordham | Bronx",
+      "units_available": 3,
+      "days_until_closing": 23,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34639199"
+    },
+    {
+      "id": "34749117",
+      "title": "584 Gates Avenue Apartments",
+      "location": "Bushwick and Williamsburg | Brooklyn",
+      "units_available": 9,
+      "days_until_closing": 22,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34749117"
+    },
+    {
+      "id": "34728402",
+      "title": "815 Kings Highway Apartments",
+      "location": "Southern Brooklyn | Brooklyn",
+      "units_available": 8,
+      "days_until_closing": 22,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34728402"
+    },
+    {
+      "id": "32343335",
+      "title": "Crotona Belmont Senior Housing",
+      "location": "Central Bronx | Bronx",
+      "units_available": 92,
+      "days_until_closing": 18,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/32343335"
+    },
+    {
+      "id": "34610577",
+      "title": "The Hana",
+      "location": "North Queens | Queens",
+      "units_available": 12,
+      "days_until_closing": 17,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34610577"
+    },
+    {
+      "id": "34944296",
+      "title": "585 Jackson Avenue Apartments",
+      "location": "Hunts Point and Mott Haven | Bronx",
+      "units_available": 16,
+      "days_until_closing": 16,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34944296"
+    },
+    {
+      "id": "34660924",
+      "title": "The Orchard",
+      "location": "Northwest Queens | Queens",
+      "units_available": 248,
+      "days_until_closing": 16,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34660924"
+    },
+    {
+      "id": "34503901",
+      "title": "The Sophia Apartments",
+      "location": "Inwood and Washington Heights | Manhattan",
+      "units_available": 13,
+      "days_until_closing": 15,
+      "is_applied": true,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34503901"
+    },
+    {
+      "id": "33402238",
+      "title": "622 11th Avenue Apartments",
+      "location": "Chelsea and Clinton | Manhattan",
+      "units_available": 22,
+      "days_until_closing": 14,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/33402238"
+    },
+    {
+      "id": "34549219",
+      "title": "The Lumina Apartments",
+      "location": "West Queens | Queens",
+      "units_available": 5,
+      "days_until_closing": 11,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34549219"
+    },
+    {
+      "id": "34015982",
+      "title": "1049 Washington Avenue Apartments",
+      "location": "High Bridge and Morrisania | Bronx",
+      "units_available": 73,
+      "days_until_closing": 11,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34015982"
+    },
+    {
+      "id": "32919684",
+      "title": "Williamsburg Wharf A3",
+      "location": "Williamsburg | Brooklyn",
+      "units_available": 55,
+      "days_until_closing": 11,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/32919684"
+    },
+    {
+      "id": "34751757",
+      "title": "The Franklin Apartments",
+      "location": "Central Harlem | Manhattan",
+      "units_available": 16,
+      "days_until_closing": 10,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34751757"
+    },
+    {
+      "id": "34702389",
+      "title": "107 South 6th Street Apartments",
+      "location": "Williamsburg | Brooklyn",
+      "units_available": 8,
+      "days_until_closing": 10,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34702389"
+    },
+    {
+      "id": "34851242",
+      "title": "354 East 28th Street Apartments",
+      "location": "Flatbush | Brooklyn",
+      "units_available": 7,
+      "days_until_closing": 10,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34851242"
+    },
+    {
+      "id": "34923321",
+      "title": "3602 Holland Avenue Apartments",
+      "location": "Bronx Park and Fordham | Bronx",
+      "units_available": 13,
+      "days_until_closing": 10,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34923321"
+    },
+    {
+      "id": "34958349",
+      "title": "133 Carlton Avenue Apartments",
+      "location": "Northwest Brooklyn | Brooklyn",
+      "units_available": 2,
+      "days_until_closing": 9,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34958349"
+    },
+    {
+      "id": "34957355",
+      "title": "1081 Anderson Avenue Apartments",
+      "location": "High Bridge and Morrisania | Bronx",
+      "units_available": 3,
+      "days_until_closing": 9,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34957355"
+    },
+    {
+      "id": "34939387",
+      "title": "714 Beach Avenue Apartments",
+      "location": "Southeast Bronx | Bronx",
+      "units_available": 9,
+      "days_until_closing": 9,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34939387"
+    },
+    {
+      "id": "34327702",
+      "title": "492 Kings Highway Apartments Units Still Available",
+      "location": "Southern Brooklyn | Brooklyn",
+      "units_available": 2,
+      "days_until_closing": 8,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34327702"
+    },
+    {
+      "id": "34189927",
+      "title": "2721 Colden Avenue Apartments",
+      "location": "Northeast Bronx | Bronx",
+      "units_available": 13,
+      "days_until_closing": 2,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34189927"
+    },
+    {
+      "id": "34642915",
+      "title": "2854 Webb Avenue Apartments",
+      "location": "Bronx Park and Fordham | Bronx",
+      "units_available": 2,
+      "days_until_closing": 1,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34642915"
+    },
+    {
+      "id": "34950600",
+      "title": "3217 Westchester Avenue",
+      "location": "Southeast Bronx | Bronx",
+      "units_available": 11,
+      "days_until_closing": 1,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34950600"
+    },
+    {
+      "id": "33656972",
+      "title": "The Andrea",
+      "location": "Chelsea and Clinton | Manhattan",
+      "units_available": 28,
+      "days_until_closing": 1,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/33656972"
+    },
+    {
+      "id": "33954808",
+      "title": "Woodhaven Blvd. Apartments",
+      "location": "West Central Queens\t | Queens",
+      "units_available": 101,
+      "days_until_closing": 1,
+      "is_applied": true,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/33954808"
+    }
+  ],
+  "sales": [
+    {
+      "id": "34979891",
+      "title": "Mitchell-Lama Lincoln Amsterdam Two Bedroom - 2026",
+      "location": "Upper West Side | Manhattan",
+      "units_available": 1,
+      "days_until_closing": 16,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34979891"
+    },
+    {
+      "id": "34979693",
+      "title": "Mitchell-Lama Lincoln Amsterdam One Bedroom - 2026",
+      "location": "Upper West Side | Manhattan",
+      "units_available": 1,
+      "days_until_closing": 16,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/34979693"
+    },
+    {
+      "id": "33632248",
+      "title": "The Chelsea ANCP Cooperatives",
+      "location": "Chelsea and Clinton | Manhattan",
+      "units_available": 21,
+      "days_until_closing": 16,
+      "is_applied": false,
+      "url": "https://housingconnect.nyc.gov/PublicWeb/lottery-details/33632248"
+    }
+  ]
+}
